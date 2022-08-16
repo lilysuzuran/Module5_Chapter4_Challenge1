@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MazeGame.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{090D324C-7D78-4FD1-B136-62FE5AA457CE}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MazeGame.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MazeGameEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{57F2451A-5419-4631-AA55-AF2495578726}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\MazeGame">
+      <UniqueIdentifier>{4C25BC52-113F-4CA1-8A70-CB591BFCC166}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MazeGame\MazeGame.Build.cs">
+      <Filter>Source\MazeGame</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MazeGame\MazeGame.cpp">
+      <Filter>Source\MazeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGame\MazeGame.h">
+      <Filter>Source\MazeGame</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\MazeGame\MazeGameGameModeBase.cpp">
+      <Filter>Source\MazeGame</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\MazeGame\MazeGameGameModeBase.h">
+      <Filter>Source\MazeGame</Filter>
+    </ClInclude>
+    <Filter Include="Source\MazeGame\Private">
+      <UniqueIdentifier>{7E08AC73-F8E6-4306-9BD3-3E09FA834AED}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MazeGame\Private\DoorInteractionComponent.cpp">
+      <Filter>Source\MazeGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MazeGame\Private\InteractableDoor.cpp">
+      <Filter>Source\MazeGame\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\MazeGame\Public">
+      <UniqueIdentifier>{BC47EE41-01B2-45FD-87D3-7CF1153E516C}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\MazeGame\Public\DoorInteractionComponent.h">
+      <Filter>Source\MazeGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MazeGame\Public\InteractableDoor.h">
+      <Filter>Source\MazeGame\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

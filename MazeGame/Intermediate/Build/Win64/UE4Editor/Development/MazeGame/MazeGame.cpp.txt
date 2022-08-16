@@ -1,0 +1,2 @@
+C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\Definitions.MazeGame.h
+C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Source\MazeGame\MazeGame.h

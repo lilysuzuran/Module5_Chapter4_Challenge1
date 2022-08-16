@@ -1,0 +1,10 @@
+﻿  Using 'git status' to determine working set for adaptive non-unity build (C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects).
+  Building MazeGameEditor...
+  Using Visual Studio 2022 14.32.31332 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.32.31326) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+  Building 4 actions with 20 processes...
+    [1/4] InteractableDoor.cpp
+C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Source\MazeGame\Private\InteractableDoor.cpp(9): error C2065: 'UDoorInterationComponent': undeclared identifier
+C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Source\MazeGame\Private\InteractableDoor.cpp(9): error C2672: 'UObject::CreateDefaultSubobject': no matching overloaded function found
+C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Source\MazeGame\Private\InteractableDoor.cpp(9): error C2974: 'UObject::CreateDefaultSubobject': invalid template argument for 'TReturnType', type expected
+    C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/Object.h(120): note: see declaration of 'UObject::CreateDefaultSubobject'
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\MSBuild\Microsoft\VC\v170\Microsoft.MakeFile.Targets(44,5): error MSB3073: The command ""C:\Program Files\Epic Games\UE_4.27\Engine\Build\BatchFiles\Build.bat" MazeGameEditor Win64 Development -Project="C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\MazeGame.uproject" -WaitMutex -FromMsBuild" exited with code 6.

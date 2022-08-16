@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-MazeGame-0625.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\MazeGameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\DoorInteractionComponent.cpp.obj"
+"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\MazeGame.cpp.obj"
+"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\MazeGameGameModeBase.cpp.obj"
+"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\DoorInteractionComponent.gen.cpp.obj"
+"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\MazeGame.init.gen.cpp.obj"
+"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\MazeGameGameModeBase.gen.cpp.obj"
+"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\Default.rc2.res"
+/OUT:"C:\Users\lkim\OneDrive - Activision Publishing\Documents\Unreal Projects\MazeGame\Intermediate\Build\Win64\UE4Editor\Development\MazeGame\UE4Editor-MazeGame-0625.lib"

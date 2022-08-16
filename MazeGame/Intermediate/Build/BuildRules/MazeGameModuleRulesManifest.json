@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\lkim\\OneDrive - Activision Publishing\\Documents\\Unreal Projects\\MazeGame\\Source\\MazeGame\\MazeGame.Build.cs",
+		"C:\\Users\\lkim\\OneDrive - Activision Publishing\\Documents\\Unreal Projects\\MazeGame\\Source\\MazeGame.Target.cs",
+		"C:\\Users\\lkim\\OneDrive - Activision Publishing\\Documents\\Unreal Projects\\MazeGame\\Source\\MazeGameEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
