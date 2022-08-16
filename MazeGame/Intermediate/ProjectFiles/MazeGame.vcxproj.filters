@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\MazeGame.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{090D324C-7D78-4FD1-B136-62FE5AA457CE}</UniqueIdentifier>
+      <UniqueIdentifier>{16F3B99F-6933-44A7-973E-3D114CECB770}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MazeGame.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{57F2451A-5419-4631-AA55-AF2495578726}</UniqueIdentifier>
+      <UniqueIdentifier>{B53A25A7-6316-4F12-B9EE-F3833E0468EB}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -23,8 +23,11 @@
     <None Include="..\..\Config\DefaultGame.ini">
       <Filter>Config</Filter>
     </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
     <Filter Include="Source\MazeGame">
-      <UniqueIdentifier>{4C25BC52-113F-4CA1-8A70-CB591BFCC166}</UniqueIdentifier>
+      <UniqueIdentifier>{240F5914-6CE5-481C-8108-BBBF66794A57}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\MazeGame\MazeGame.Build.cs">
       <Filter>Source\MazeGame</Filter>
@@ -42,21 +45,33 @@
       <Filter>Source\MazeGame</Filter>
     </ClInclude>
     <Filter Include="Source\MazeGame\Private">
-      <UniqueIdentifier>{7E08AC73-F8E6-4306-9BD3-3E09FA834AED}</UniqueIdentifier>
+      <UniqueIdentifier>{8C17976F-5DC1-47B4-90D5-8481B090CD93}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\MazeGame\Private\DoorInteractionComponent.cpp">
+      <Filter>Source\MazeGame\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MazeGame\Private\DoorSlideComponent.cpp">
       <Filter>Source\MazeGame\Private</Filter>
     </ClCompile>
     <ClCompile Include="..\..\Source\MazeGame\Private\InteractableDoor.cpp">
       <Filter>Source\MazeGame\Private</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\Source\MazeGame\Private\SlideableDoor.cpp">
+      <Filter>Source\MazeGame\Private</Filter>
+    </ClCompile>
     <Filter Include="Source\MazeGame\Public">
-      <UniqueIdentifier>{BC47EE41-01B2-45FD-87D3-7CF1153E516C}</UniqueIdentifier>
+      <UniqueIdentifier>{13F9E1C4-E221-4537-A592-4B9DA7302286}</UniqueIdentifier>
     </Filter>
     <ClInclude Include="..\..\Source\MazeGame\Public\DoorInteractionComponent.h">
       <Filter>Source\MazeGame\Public</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\MazeGame\Public\DoorSlideComponent.h">
+      <Filter>Source\MazeGame\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\MazeGame\Public\InteractableDoor.h">
+      <Filter>Source\MazeGame\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\MazeGame\Public\SlideableDoor.h">
       <Filter>Source\MazeGame\Public</Filter>
     </ClInclude>
   </ItemGroup>

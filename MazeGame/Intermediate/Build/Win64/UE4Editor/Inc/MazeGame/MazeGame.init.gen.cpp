@@ -21,8 +21,8 @@ void EmptyLinkFunctionForGeneratedCodeMazeGame_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0x7E9E665A,
-				0x5311FA66,
+				0x8C4C668D,
+				0x338DA692,
 				METADATA_PARAMS(nullptr, 0)
 			};
 			UE4CodeGen_Private::ConstructUPackage(ReturnPackage, PackageParams);
